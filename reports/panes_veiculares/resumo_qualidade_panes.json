@@ -1,0 +1,23 @@
+{
+  "total_estadual": 3180516,
+  "total_baixada": 212628,
+  "revisao_baixada": 14,
+  "flags_estadual": "nao_avaliadas: somente recorte regional validado",
+  "flags_baixada": {
+    "FLAG_ID_DUPLICADO": 0,
+    "FLAG_DATA_INVALIDA": 0,
+    "FLAG_HORA_INVALIDA": 0,
+    "FLAG_ANO_DIVERGENTE": 0,
+    "FLAG_KM_INVALIDO": 0,
+    "FLAG_COORDENADA_INVALIDA": 3,
+    "FLAG_COORDENADA_FORA_SP_APROX": 11,
+    "FLAG_ID_AUSENTE": 0,
+    "FLAG_MUNICIPIO_AUSENTE": 0,
+    "FLAG_RODOVIA_AUSENTE": 0
+  },
+  "periodo": "2021–2026; ano de 2026 pode estar incompleto",
+  "regra_recorte": "MUNICIPIO normalizado em nove municípios da Baixada Santista",
+  "deduplicacao": "IDs repetidos no recorte regional sinalizados, não removidos; preservar auditoria",
+  "horario": "DATA e HORA sem informação inequívoca de fuso; não assumir UTC",
+  "interpretacao": "Panes de veículos em rodovias, não restrições de acesso marítimo ao porto."
+}

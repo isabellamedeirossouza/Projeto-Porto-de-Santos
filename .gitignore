@@ -1,0 +1,27 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Bases originais (podem ser muito grandes)
+data/raw/**
+
+# Bases processadas grandes
+data/processed/**/*.csv
+
+# Relatórios grandes
+reports/**/*.csv
+
+!data/
+!data/raw/
+!data/processed/
+!data/**/
+!data/**/.gitkeep

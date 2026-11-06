@@ -1,0 +1,54 @@
+{
+  "diario": {
+    "contagens": {
+      "linhas_lidas": 66016,
+      "datas_invalidas": 0,
+      "datas_futuras": 928,
+      "ano_divergente": 0,
+      "volumes_invalidos": 0,
+      "diferenca_classes": 0
+    },
+    "resultado": {
+      "agregadas": 17049,
+      "dias_praca_sentido": 5706,
+      "datas": 815,
+      "primeira": "2021-01-01",
+      "ultima": "2026-11-05",
+      "pracas": [
+        "BATISTINI",
+        "DIADEMA",
+        "ELDORADO",
+        "PIRATININGA",
+        "RIACHO GRANDE",
+        "SANTOS",
+        "SÃO VICENTE"
+      ]
+    }
+  },
+  "horario": {
+    "contagens": {
+      "linhas_lidas": 1878845,
+      "datas_invalidas": 0,
+      "datas_futuras": 7040,
+      "ano_divergente": 0,
+      "volumes_invalidos": 0,
+      "diferenca_classes": 178959
+    },
+    "resultado": {
+      "agregadas": 538136,
+      "dias_praca_sentido": 9712,
+      "datas": 1713,
+      "primeira": "2021-01-01",
+      "ultima": "2026-11-05",
+      "pracas": [
+        "BATISTINI",
+        "DIADEMA",
+        "ELDORADO",
+        "PIRATININGA",
+        "RIACHO GRANDE",
+        "SANTOS",
+        "SÃO VICENTE"
+      ]
+    }
+  }
+}

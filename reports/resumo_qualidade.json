@@ -1,0 +1,16 @@
+{
+  "arquivo_origem": "exportacao_atracacao.csv",
+  "periodo_inicio": "2021-01-01",
+  "periodo_fim_exclusivo": "2027-01-01",
+  "registros_originais": 116487,
+  "registros_apos_remocao_de_duplicatas": 116487,
+  "duplicatas_exatas_removidas": 0,
+  "registros_no_periodo": 31116,
+  "registros_para_revisao": 6,
+  "registros_com_ano_inconsistente": 0,
+  "registros_com_mes_inconsistente": 0,
+  "registros_com_ano_mes_inconsistente": 0,
+  "registros_com_duracao_negativa_no_periodo": 0,
+  "registros_com_mercadoria_ausente_no_periodo": 3,
+  "observacao": "Registros suspeitos são documentados para revisão. ANO, MES e ANO_MES são derivados de ATRACACAO na base final. DESATRACACAO anterior à ATRACACAO é anulada na base analítica, preservando o valor original no relatório de revisão."
+}
